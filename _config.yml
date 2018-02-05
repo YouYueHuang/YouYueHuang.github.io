@@ -2,7 +2,7 @@
 title: You Yue Huang
 description: You Yue Huang blog is a place to learn about code of python, machine learning, deep learning and data science.
 keywords: You Yue Huang, data science, deep learning, python, computer vision, search engine, NLP, natural language processing, machine learning
-url: https://diegoperezscience.github.io #url should be 'http://<github_username>.github.io/homepage' as before
+url: https://youyuehuang.github.io./ #url should be 'http://<github_username>.github.io/homepage' as before
 # url: http://127.0.0.1:4000
 #img_path: /Jalpc/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
@@ -23,7 +23,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-microscope
-  desc: My name is Diego Perez and I am an energetic data scientist with background in applied math, and industrial and computer engineering. My interest is applying mathematical tools to model industrial scenarios and generate useful solutions. I deeply enjoy working in multidisciplinary teams as pivotal point in the conversation between the mathematical theory and the needs of the productive industry. I am a well rounded scientist, ready to utilize my knowledge in research or production environments.
+  desc: My name is You Yue Huang. I am a data scientist with software development, project management and client facing experience. My interest is exploring understandable machine learning techniques. I deeply enjoy working in multidisciplinary teams, integrating technical resources, spearheading business opportunities and contributing to the open source communities.
 
 # comment
 #disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
@@ -47,7 +47,7 @@ donation: off  # type 'on'/'off' to choice display donation button at post page 
 
 ## carousels
 index_carousel: on  # index page carousel switch
-blog_carousel: off  # blog page carousel switch
+blog_carousel: on  # blog page carousel switch
 
 # Build settings
 encoding: utf-8
