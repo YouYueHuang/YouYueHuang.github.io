@@ -7,7 +7,7 @@
     </div>
     <div class="row">
         {% for skill in site.data.index.skills %}
-            {% assign loopindex = forloop.index | modulo: 2 %}
+            {% assign loopindex = forloop.index | modulo: 5 %}
             {% if forloop.last %}
                 {% if forloop.last == forloop.first %}
             <div class="col-sm-6 wow col-sm-offset-3 zoomIn">
