@@ -6,9 +6,6 @@
   repo: SelfDrivingCarProjects
   img: /static/assets/img/landing/UMLEng.png
   desc: Implementation of the projects for the self-driving Nanodegree at Udacity.
-  Finished part
-  (1) Lane line detection
-  (2) Traffic sign recognition
 
 - name: Mining Location-based Social Networks for Criminal Activity Prediction
   i18n: name
