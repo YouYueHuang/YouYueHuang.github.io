@@ -1,85 +1,99 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Jheronimus Academy of Data Science (JADS)
+    detail: Jheronimus Academy of Data Science in Eindhoven University of Technology (Netherlands)
     i18n: company_a
   desc:
-    detail: Design and implementation of Data Science solutions for the Dutch industry.
+    detail: Design and implementation of data science solutions for business.
     i18n: company_a_desc
   date:
-    detail: September 2016
+    detail: September 2016 ~ August 2018
     i18n: company_a_date
   job:
-    detail: Technical Designer in Training (PDEng) in Data Science
+    detail: Trainee of Professional Doctorate in Data Science
     i18n: company_a_job
   icon: fa-bar-chart
 
 - name:
-    detail: Erasmus Mundus MSc Mathmods
+    detail: Studyportals (Netherlands)
     i18n: company_b
   desc:
-    detail: Two-year joint MSc on the theory, numerics and applications of Mathematical modeling in engineering.
+    detail: As part of my work in search team, I applied data analysis, natural language processing techniques for keyword understanding, marketing, search engine components evaluation, and document ranking
     i18n: company_b_desc
   date:
-    detail: December 2015
+    detail: September 2017 ~ January 2018
     i18n: company_b_date
   job:
-    detail: MSc Mathematical Models in Engineering
+    detail: Data Scientist in Search
     i18n: company_b_job
   icon: fa-calculator
 
 - name:
-    detail: Procter and Gamble
+    detail: Systex (Taiwan)
     i18n: company_b
   desc:
-    detail: Intern in charge of documenting all the operations of the warehouse, to review, update and generate standard operating procedures (SOPs) that ensure a standardized, cohesive, end-to-end description of all tasks within the warehouse.
+    detail: Working as part of Software Development & Sales Department, I developed software and designed web interface in the C#/.Net framework for the customers. 
     i18n: company_b_desc
   date:
-    detail: September 2014
+    detail: December 2015 ~ July 2016
     i18n: company_b_date
   job:
-    detail: Supply Network Operations Intern
+    detail: Senior Program Analyst
     i18n: company_b_job
   icon: fa-truck
 
 - name:
-    detail: Quad/Graphics
+    detail: Arcadian Home & Lighting (Taiwan)
     i18n: company_b
-  desc:
-    detail: Corporate Trainee program in Interactive Print Solutions (IPS). The IPS department aimed to add value to printed material by allowing mobile devices to interact with print through image recognition and augmented reality. The role was analogous to a project manager.
+  desc: As a software engineer intern, I implemented algorithms for improving web resource delivery performance through content distribution network on Amazon cloud service. Also, I Developing the data parsing components for data pipeline.
+    detail: 
     i18n: company_b_desc
   date:
-    detail: January 2012
+    detail: July 2015 ~ September 2015
     i18n: company_b_date
   job:
-    detail: Interactive Print Representative
+    detail: Software engineer intern
     i18n: company_b_job
   icon: fa-book
 
 - name:
-    detail: General Motors
+    detail: Academia Sinica: Research Center for Information Technology Innovation (Taiwan)
     i18n: company_b
   desc:
     detail: Supply Chain department analyst, responsible for the logistics of non-CKD parts of several models of automobiles in the production site of Bogota, Colombia.
     i18n: company_b_desc
   date:
-    detail: October 2011
+    detail: August 2014 ~ July 2015
     i18n: company_b_date
   job:
-    detail: Material Flow Engineer
+    detail: Research Assistant
     i18n: company_b_job
   icon: fa-car
 
 - name:
-    detail: Universtity of Andes, Bogota
+    detail: National Taiwan University (Taiwan)
     i18n: company_b
   desc:
-    detail: Double BSc degree in Industrial Engineering and Computer Engineering. Emphasis on operations research and software development.
+    detail: Master degree
     i18n: company_b_desc
   date:
-    detail: March 2011
+    detail: September 2012 ~ June 2015
     i18n: company_b_date
   job:
-    detail: BSc Industrial Engineer and BSc Computer Engineer
+    detail: Master of Science in Electrical Engineering and Computer Science
+    i18n: company_b_job
+  icon: fa-graduation-cap
+  
+  - name:
+    detail: National Taiwan University (Taiwan)
+    i18n: company_b
+  desc:
+    detail: Bachelor degree
+    i18n: company_b_desc
+  date:
+    detail: September 2006 ~ June 2010
+    i18n: company_b_date
+  job:
+    detail: Bachelor of Science in Physics
     i18n: company_b_job
   icon: fa-graduation-cap
