@@ -69,31 +69,3 @@
     detail: Research Assistant
     i18n: company_b_job
   icon: fa-car
-
-- name:
-    detail: National Taiwan University (Taiwan)
-    i18n: company_b
-  desc:
-    detail: Master degree
-    i18n: company_b_desc
-  date:
-    detail: September 2012 ~ June 2015
-    i18n: company_b_date
-  job:
-    detail: Master of Science in Electrical Engineering and Computer Science
-    i18n: company_b_job
-  icon: fa-graduation-cap
-  
-  - name:
-    detail: National Taiwan University (Taiwan)
-    i18n: company_b
-  desc:
-    detail: Bachelor degree
-    i18n: company_b_desc
-  date:
-    detail: September 2006 ~ June 2010
-    i18n: company_b_date
-  job:
-    detail: Bachelor of Science in Physics
-    i18n: company_b_job
-  icon: fa-graduation-cap
