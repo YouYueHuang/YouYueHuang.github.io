@@ -3,7 +3,7 @@
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: Udacity Nanodegree - self-driving car (working in progress)
   i18n: name
-  repo: SelfDrivingCarProjects
+  repo: YouYueHuang/SelfDrivingCarProjects
   img: /static/assets/img/landing/UMLEng.png
   desc: Implementation of the projects for the self-driving Nanodegree at Udacity.
 
