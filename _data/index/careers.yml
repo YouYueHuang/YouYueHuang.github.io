@@ -1,16 +1,16 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Jheronimus Academy of Data Science in Eindhoven University of Technology (Netherlands)
+    detail: Jheronimus Academy of Data Science (Netherlands)
     i18n: company_a
   desc:
     detail: Design and implementation of data science solutions for business.
     i18n: company_a_desc
   date:
-    detail: September 2016 ~ August 2018
+    detail: September 2016 ~
     i18n: company_a_date
   job:
-    detail: Trainee of Professional Doctorate in Data Science
+    detail: Trainee of Professional Doctorate in Data Science in Eindhoven University of Technology
     i18n: company_a_job
   icon: fa-bar-chart
 
@@ -21,7 +21,7 @@
     detail: As part of my work in search team, I applied data analysis, natural language processing techniques for keyword understanding, marketing, search engine components evaluation, and document ranking
     i18n: company_b_desc
   date:
-    detail: September 2017 ~ January 2018
+    detail: September 2017 ~ 
     i18n: company_b_date
   job:
     detail: Data Scientist in Search
