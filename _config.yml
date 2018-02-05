@@ -12,8 +12,8 @@ author:  # change following line to your infomation.
   first_name: You Yue # Be used at index page about me section.
   last_name: Huang # Be used at index page about me section.
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
-  github_username: https://github.com/YouYueHuang  # Leave blank if you don't have now
-  linkedin_id: https://www.linkedin.com/in/huang-you-yue-ab59869a/ # Leave blank if you don't have now
+  github_username: YouYueHuang  # Leave blank if you don't have now
+  linkedin_id: huang-you-yue-ab59869a # Leave blank if you don't have now
   email: leonard20130706@gmail.com  # Leave blank if you don't have now
   #cv: http://cv.jarrekk.com  # A online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
