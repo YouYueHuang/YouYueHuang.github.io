@@ -4,14 +4,20 @@
 - name: Udacity Nanodegree - self-driving car (working in progress)
   i18n: name
   repo: YouYueHuang/SelfDrivingCarProjects
-  img: /static/assets/img/landing/UMLEng.png
+  img: /static/assets/img/landing/self_driving_cover.jpeg
   desc: Implementation of the projects for the self-driving Nanodegree at Udacity.
 
 - name: Mining Location-based Social Networks for Criminal Activity Prediction
   i18n: name
   url: https://www.researchgate.net/publication/308541714_Mining_location-based_social_networks_for_criminal_activity_prediction
-  img: /static/assets/img/landing/springerLink.png
+  img: /static/assets/img/landing/crime_cover.png
   desc: A crime analysis project with data mining and machine learning techniques. Published by the 24th Annual Wireless and Optical Communications Conference (WOCC)
+
+- name: Cheat Sheet generator
+  i18n: name
+  url: https://youyuehuang.github.io/CheatSheetGenerator/dist/index.html
+  img: /static/assets/img/landing/cheatsheet_cover.PNG
+  desc: A webpage for storing coding cheat sheet of different softwares, framework and programming languages
 
 #- name: Python
 #  i18n: cpython
