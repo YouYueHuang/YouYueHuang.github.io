@@ -45,8 +45,8 @@
 - name:
     detail: Arcadian Home & Lighting (Taiwan)
     i18n: company_b
-  desc: As a software engineer intern, I implemented algorithms for improving web resource delivery performance through content distribution network on Amazon cloud service. Also, I Developing the data parsing components for data pipeline.
-    detail: 
+  desc: 
+    detail: As a software engineer intern, I implemented algorithms for improving web resource delivery performance through content distribution network on Amazon cloud service. Also, I Developing the data parsing components for data pipeline.
     i18n: company_b_desc
   date:
     detail: July 2015 ~ September 2015
