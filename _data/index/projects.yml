@@ -1,7 +1,7 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Udacity Nanodegree: self-driving car (working in progress)
+- name: Udacity Nanodegree - self-driving car (working in progress)
   i18n: name
   repo: SelfDrivingCarProjects
   img: /static/assets/img/landing/UMLEng.png
