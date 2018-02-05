@@ -1,6 +1,37 @@
 # skills section data
 
-label: Skills
-id : cs
-aspects: Python, GitHub, C#, SQL, Deep Learning, Machine Learing, d3.js, node.js, HTML
-percentage: 100, 35, 65, 80, 70, 90, 50, 80, 70
+- name: Tensorflow
+  img: /static/assets/img/skill_icon/Tensorflow_logo.png
+
+- name: Scikit-learn
+  img: /static/assets/img/skill_icon/scikit-learn-logo.png
+
+- name: Spark
+  img: /static/assets/img/skill_icon/ApacheSpark.png
+
+- name: Python
+  img: /static/assets/img/skill_icon/Python.png
+
+- name: C#
+  img: /static/assets/img/skill_icon/csharp.png
+
+- name: D3.js
+  img: /static/assets/img/skill_icon/d3_logo.png
+
+- name: Node.js
+  img: /static/assets/img/skill_icon/nodejslogo.png
+
+- name: Neo4j
+  img: /static/assets/img/skill_icon/neo4j.png
+
+- name: MySQL
+  img: /static/assets/img/skill_icon/mysql.png
+
+- name: Redis
+  img: /static/assets/img/skill_icon/redis_logo.png
+
+- name: Elasticsearch
+  img: /static/assets/img/skill_icon/Elasticsearch-Logo.png
+
+- name: Kibana
+  img: /static/assets/img/skill_icon/kibana.png
