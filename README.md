@@ -166,17 +166,6 @@ git pull upstream gh-pages
 
 There may be merge conflicts, so be sure to fix the files that git lists if they occur. That's it!
 
-# Todo
-- [ ] `jekyll server --watch` mode need to use original CSS/JS files
-- [ ] User can customise index page's section title.
-- [x] Non-github projects also have links.
-- [ ] Add some custom color themes for selection(Nav bar, background, words, dominant hue).
-
-# Donate Jalpc
-If this project let you enjoy your blog time, you can give me a cup of coffee :)
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/jarrekk)
-
 # Wiki
 
 * [Multilingual Page](https://github.com/jarrekk/Jalpc/wiki/Multilingual-Page)
@@ -185,5 +174,3 @@ If this project let you enjoy your blog time, you can give me a cup of coffee :)
 * [Contributors](https://github.com/jarrekk/Jalpc/wiki/Contributors)
 * [Thanks to the following](https://github.com/jarrekk/Jalpc/wiki/Thanks-to-the-following)
 
-# Ad
-[Jalpc-A](https://github.com/Jack614/Jalpc-A): another Jekyll theme written by [AngularJS](https://angularjs.org/).
