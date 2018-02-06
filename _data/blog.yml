@@ -6,8 +6,11 @@
 - name: Python
   href: /python/
 
-- name: Machine_Learning
-  href: /Machine_Learning/
+- name: Machine Learning
+  href: /machinelearning/
+
+- name: Web
+  href: /web/
 
 - name: Life
   href: /life/
