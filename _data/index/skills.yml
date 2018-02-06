@@ -29,9 +29,3 @@
 
 - name: Redis
   img: /static/assets/img/skill_icon/redis_logo.png
-
-- name: Elasticsearch
-  img: /static/assets/img/skill_icon/Elasticsearch-Logo.png
-
-- name: Kibana
-  img: /static/assets/img/skill_icon/kibana.png
