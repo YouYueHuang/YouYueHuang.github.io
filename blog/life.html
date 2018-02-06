@@ -24,9 +24,11 @@ permalink: /life/
             <div class="col-sm-6 wow {% if loopindex == 1 %} fadeInLeft {% else %} fadeInRight {% endif %}">
             {% endif %}
               <div class="team-member">
-                  <img src="{{ story.img | prepend: site.baseurl }}" class="img-responsive img-circle img-small" alt="">
-                  <h4>{{ story.name }}</h4>
+                  <img src="{{ story.img | prepend: site.baseurl }}" class="img-responsive img-circle img-large" alt="">
               </div>
+              <div class="caption-margin">
+                  <h4>{{ story.name }}</h4>
+              <div class="team-member">
             </div>
         {% endfor %}
     </div>
