@@ -3,23 +3,31 @@ layout: blog
 title: Life
 permalink: /life/
 ---
-<div>
-  <span>Home</span>
-  <div>
-    <label class="mdl-button mdl-js-button mdl-button--icon" for="search">
-      <i class="material-icons">search</i>
-    </label>
-    <div>
-      <input class="mdl-textfield__input" type="text" id="search">
-      <label class="mdl-textfield__label" for="search">Enter your query...</label>
+<div class="row">
+    <div class="col-lg-12 text-center">
+        <div class="navy-line"></div>
+        <h1>Life</h1>
     </div>
-  </div>
-  <button class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon" id="hdrbtn">
-    <i class="material-icons">more_vert</i>
-  </button>
-  <ul class="mdl-menu mdl-js-menu mdl-js-ripple-effect mdl-menu--bottom-right" for="hdrbtn">
-    <li class="mdl-menu__item">About</li>
-    <li class="mdl-menu__item">Contact</li>
-    <li class="mdl-menu__item">Legal information</li>
-  </ul>
+</div>
+
+<div class="row">
+    <div class="col-lg-8 col-lg-offset-2">
+        {% for story in site.data.blog_nav_bar.life %}
+            {% assign loopindex = forloop.index | modulo: 2 %}
+            {% if forloop.last %}
+                {% if forloop.last == forloop.first %}
+            <div class="col-sm-6 wow col-sm-offset-3 zoomIn">
+                {% else %}
+            <div class="col-sm-6 wow {% if loopindex == 1 %} fadeInLeft col-sm-offset-3 {% else %} fadeInRight {% endif %}">
+                {% endif %}
+            {% else %}
+            <div class="col-sm-6 wow {% if loopindex == 1 %} fadeInLeft {% else %} fadeInRight {% endif %}">
+            {% endif %}
+              <div class="team-member">
+                  <img src="{{ story.img | prepend: site.baseurl }}" class="img-responsive img-circle img-small" alt="">
+                  <h4>{{ story.name }}</h4>
+              </div>
+            </div>
+        {% endfor %}
+    </div>
 </div>
