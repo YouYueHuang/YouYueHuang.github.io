@@ -18,10 +18,7 @@
 - [Upgrading Jalpc](#upgrading-jalpc)
   - [Ensure there's an upstream remote](#ensure-theres-an-upstream-remote)
   - [Pull in the latest changes](#pull-in-the-latest-changes)
-- [Todo](#todo)
-- [Donate Jalpc](#donate-jalpc)
-- [Wiki](#wiki)
-- [Ad](#ad)
+- [Reference](#Reference)
 
 This is a simple, beautiful and swift theme for Jekyll. It's mobile first, fluidly responsive, and delightfully lightweight.
 
@@ -173,4 +170,9 @@ There may be merge conflicts, so be sure to fix the files that git lists if they
 * [Change Log](https://github.com/jarrekk/Jalpc/wiki/Change-Log)
 * [Contributors](https://github.com/jarrekk/Jalpc/wiki/Contributors)
 * [Thanks to the following](https://github.com/jarrekk/Jalpc/wiki/Thanks-to-the-following)
+
+# Reference
+
+* [Building a static website with Jekyll and GitHub Pages](https://programminghistorian.org/lessons/building-static-sites-with-jekyll-github-pages)
+* [Publishing with GitHub Pages, now as easy as 1, 2, 3](https://github.com/blog/2289-publishing-with-github-pages-now-as-easy-as-1-2-3)
 
