@@ -25,9 +25,9 @@ permalink: /life/
             {% endif %}
               <div class="team-member">
                   <img src="{{ story.img | prepend: site.baseurl }}" class="img-responsive img-circle img-large" alt="">
-              </div>
-              <div class="caption-margin">
-                  <h4>{{ story.name }}</h4>
+                  <div class="caption-margin">
+                    <h4>{{ story.name }}</h4>
+                  </div>
               </div>
             </div>
         {% endfor %}
