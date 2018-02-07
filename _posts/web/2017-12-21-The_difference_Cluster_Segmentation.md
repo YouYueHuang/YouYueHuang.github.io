@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "The difference between Cluster and Segmentation"
+title:  "I am web"
 date:   2017-12-21
 desc: "The difference between Cluster and Segmentation in concept"
 keywords: "data mining, clustering"
-categories: [machine learning]
+categories: [web]
 tags: [data mining, clustering]
 icon: icon-machine-learning
 ---
