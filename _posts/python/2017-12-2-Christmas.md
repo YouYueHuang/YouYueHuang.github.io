@@ -4,9 +4,9 @@ title:  "The difference between Cluster and Segmentation"
 date:   2017-12-21
 desc: "The difference between Cluster and Segmentation in concept"
 keywords: "data mining, clustering"
-categories: [machine learning]
+categories: [python]
 tags: [data mining, clustering]
-icon: icon-machine-learning
+icon: icon-python
 ---
 
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
