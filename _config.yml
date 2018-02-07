@@ -4,7 +4,7 @@ description: You Yue Huang blog is a place to learn about code of python, machin
 keywords: You Yue Huang, data science, deep learning, python, computer vision, search engine, NLP, natural language processing, machine learning
 url: https://youyuehuang.github.io./ #url should be 'http://<github_username>.github.io/homepage' as before
 # url: http://127.0.0.1:4000
-#img_path: /Jalpc/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
+img_path: /YouYueHuang.github.io/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
 # author -- index page "about me" section
 author:  # change following line to your infomation.
