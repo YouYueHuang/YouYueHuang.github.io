@@ -1,7 +1,13 @@
 # life
 
-- name: 2nd place in Xomnia datathon 2017 with JADS team
+- name: 2nd place in Xomnia datathon 2017 in Amersfort with JADS team
   img: /static/assets/img/blog_nav_bar/life/xomnia_hackathon.jpg
 
-- name: 1st place in Bounce Backathon 2017 with JADS team
+- name: 1st place in Bounce Backathon 2017 in Den Bosch with JADS team
   img: /static/assets/img/blog_nav_bar/life/bounce_backthon.jpg
+  
+- name: Attending Open Dutch Hackathon 2016 in Rotterdam with JADS team
+  img: /static/assets/img/blog_nav_bar/life/open_dutch_hackathon.jpg
+  
+- name: Attending PyData Amsterdam 2017 in Booking.com with JADS colleagues
+  img: /static/assets/img/blog_nav_bar/life/pydata_ams.jpg
