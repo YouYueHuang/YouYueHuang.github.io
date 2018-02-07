@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "You are not machine"
+title:  "The difference between Cluster and Segmentation in concept"
 date:   2017-12-21
 desc: "The difference between Cluster and Segmentation in concept"
 keywords: "data mining, clustering"
