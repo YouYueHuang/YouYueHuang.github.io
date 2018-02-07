@@ -15,7 +15,7 @@ permalink: /web/
         <div class="wrapper wrapper-content animated fadeInRight">
 
             <!-- latest 10 blog -->
-			{% for post in site.posts.web limit:10 %}
+	    {% for post in site.categories.web limit:10 %}
             <div class="vote-item">
                 <div class="row">
                     <div class="col-md-10">
@@ -42,5 +42,4 @@ permalink: /web/
             {% endfor %}
         </div>
     </div>
-
 </div>
