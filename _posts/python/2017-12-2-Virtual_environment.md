@@ -9,8 +9,7 @@ tags: [virtual environment, package management]
 icon: icon-python
 ---
 
-# A Virtual Environment is a tool to keep the dependencies required by different projects in separate places.
----
+A Virtual Environment is a tool to keep the dependencies required by different projects in separate places.
 
 1. Check `anaconda` is installed and in your PATH
 2. Open a terminal client.
