@@ -177,4 +177,5 @@ There may be merge conflicts, so be sure to fix the files that git lists if they
 * [Publishing with GitHub Pages, now as easy as 1, 2, 3](https://github.com/blog/2289-publishing-with-github-pages-now-as-easy-as-1-2-3)
 * [Liquid design](https://github.com/Shopify/liquid/wiki/Liquid-for-Designers)
 * [Jekyll variables](https://jekyllrb.com/docs/variables/)
+* [Customized your sharing buttons](https://www.addtoany.com/)
 
