@@ -13,17 +13,9 @@ permalink: /python/
 <div>
 	{% for post in site.categories[page.category] %}
 	<div>
-		<p>{{post}}</p>
+		<p>{{page.date}}</p>
 		<br>
 		<p>{{page.url}}</p>
-		<br>
-				<p>{{page.categories}}</p>
-		<br>
-				<p>{{page.keywords}}</p>
-		<br>
-				<p>{{site.categories}}</p>
-		<br>
-				<p>{{site.categories[page.category]}}</p>
 		<br>		
 	</div>
 </div>
