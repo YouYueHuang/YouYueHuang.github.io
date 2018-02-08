@@ -18,14 +18,8 @@
 - name: D3.js
   img: /static/assets/img/skill_icon/d3_logo.png
 
-- name: Node.js
-  img: /static/assets/img/skill_icon/nodejslogo.png
-
 - name: Neo4j
   img: /static/assets/img/skill_icon/neo4j.png
 
 - name: MySQL
   img: /static/assets/img/skill_icon/mysql.png
-
-- name: Redis
-  img: /static/assets/img/skill_icon/redis_logo.png
