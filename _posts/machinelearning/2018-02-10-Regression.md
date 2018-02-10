@@ -41,9 +41,4 @@ icon: icon-machine-learning
       <li>Output: advertisement</li>
     </ul>
   </p>
-  <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/2.0-latest/MathJax.js?config=TeX-MML-AM_HTMLorMML-full"> </script>
-  <p>
-    \(ax^2 + bx + c = 0\) and they are
-    $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
-  </p>
 </div>
