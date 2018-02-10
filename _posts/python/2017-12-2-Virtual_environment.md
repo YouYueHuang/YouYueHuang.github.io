@@ -9,15 +9,11 @@ tags: [virtual environment, package management]
 icon: icon-python
 ---
 
-<script type="text/x-mathjax-config">
-  MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
-</script>
-<script type="text/javascript" async
-  src="https://example.com/MathJax.js?config=TeX-AMS_CHTML">
-</script>
-
-When $a \ne 0$, there are two solutions to \(ax^2 + bx + c = 0\) and they are
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/2.0-latest/MathJax.js?config=TeX-MML-AM_HTMLorMML-full"> </script>
+<p>
+\(ax^2 + bx + c = 0\) and they are
 $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
+</p>
 
 A Virtual Environment is a tool to keep the dependencies required by different projects in separate places.
 
