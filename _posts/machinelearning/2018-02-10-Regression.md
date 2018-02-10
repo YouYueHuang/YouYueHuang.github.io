@@ -16,8 +16,6 @@ icon: icon-machine-learning
 
 <div class="w3-twothird w3-container">
   <h1 class="w3-text-teal">Regression</h1>
-  <p>$$y=\sum_{i=1}^n g(x_i)$$</p>
-
   <p>Regreesion is a approach to estimate the relationships among variables, and the target variable is a continuous number.</p>
   <p><b>Application</b> 
     <ul>
