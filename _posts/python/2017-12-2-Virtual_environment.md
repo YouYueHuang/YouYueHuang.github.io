@@ -9,6 +9,8 @@ tags: [virtual environment, package management]
 icon: icon-python
 ---
 
+$$y=\sum_{i=1}^n g(x_i)$$
+
 A Virtual Environment is a tool to keep the dependencies required by different projects in separate places.
 
 1. Check `anaconda` is installed and in your PATH
