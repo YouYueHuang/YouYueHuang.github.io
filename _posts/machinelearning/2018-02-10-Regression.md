@@ -20,7 +20,7 @@ icon: icon-machine-learning
   <img src="{{ site.img_path }}/blog_machine_learning/RSS.gif" width="100%">
   <img src="{{ site.img_path }}/blog_machine_learning/optimize_func.gif" width="100%">
   <p>The goal is to find a set of weight and bias to minimize the loss function, which makes the residual sqaure of sum the minimum</p>
-  <p>We have to define a good loss function, which is differentiable, then we can use gradient descent to optimize the target value</p> 
+  <p>We have to define a good loss function, which is differentiable, then we can use gradient descent to find global optimum</p> 
   <p><b>Application</b> 
     <ul>
       <li>Stock price prediction</li>
