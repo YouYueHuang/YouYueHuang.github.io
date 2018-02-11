@@ -18,6 +18,7 @@ icon: icon-machine-learning
   <h1 class="w3-text-teal">Regression</h1>
   <p>Regreesion is a approach to estimate the relationships among variables, and the target variable is a continuous number.</p>
   <img src="{{ site.img_path }}/blog_machine_learning/RSS.gif" width="100%">
+  <img src="{{ site.img_path }}/blog_machine_learning/optimize_func.gif" width="100%">
   <p>The goal is to find a set of weight and bias to minimize the loss function, which makes the residual sqaure of sum the minimum</p>
   <p>We have to define a good loss function, which is differentiable, then we can use gradient descent to optimize the target value</p> 
   <p><b>Application</b> 
