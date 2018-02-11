@@ -28,6 +28,8 @@ icon: icon-machine-learning
   </p>
   <p> When training a good neural network, one of the challenges is to find a good sets of parameters for initialization. Autoencoder can do pretraining to memorize the layer-wise features as the input of the neural network.
   </p>
+  <p>Autoencoders are data-specific, so it is hard to generalize them. That makes it impractical for real-world data compression problems unless data is similar or large amount of real-world data was trained.
+  </p>
   <h1 class="w3-text-teal">Autoencoder for convolutional neural network</h1>
   <img src="{{ site.img_path }}/blog_machine_learning/Autoencoder_for_convolutional_neural_network.png" width="100%">
   
