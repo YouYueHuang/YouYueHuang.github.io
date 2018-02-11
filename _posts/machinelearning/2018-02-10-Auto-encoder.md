@@ -15,8 +15,8 @@ icon: icon-machine-learning
 <!-- img_path: /YouYueHuang.github.io/static/assets/img/blog  -->
 
 <div class="w3-twothird w3-container">
-  <h1 class="w3-text-teal">Auto encoder</h1>
-  <img src="{{ site.img_path }}/blog_machine_learning/Autoencoding.png" width="75%">
+  <h1 class="w3-text-teal">Autoencoder</h1>
+  <img src="{{ site.img_path }}/blog_machine_learning/Autoencoding.png" width="100%">
   <p>Autoencoding(AE) is an automatic data compression and decompression algorithm. In machine learning, it belongs to unsupervised learning. Both PCA and autoencoder can do dimension reduction and make the information lossy. PCA is maion used for finding low dimension representations, and it only uses linear operations as opposed to autoencoding. Autoencoding can have nonlinear enoder/decoders.
   </p>
   <p> If no non-linear function is used in the AE and the number of neurons in the hidden layer is of smaller dimension then that of the input then PCA and AE can yield the same result. Otherwise the AE may find a different subspace. If the dimension of hidden layer is 2, it can be used for visualization. 
@@ -28,6 +28,9 @@ icon: icon-machine-learning
   </p>
   <p> When training a good neural network, one of the challenges is to find a good sets of parameters for initialization. Autoencoder can do pretraining to memorize the layer-wise features as the input of the neural network.
   </p>
+  <h1 class="w3-text-teal">Autoencoder for convolutional neural network</h1>
+  <img src="{{ site.img_path }}/blog_machine_learning/Autoencoder_for_convolutional_neural_network.png" width="100%">
+  
   <p>
   Application: image search: find similar images, text retrieval: retrieve relevant document based on query, audio compression. 
   </p>
