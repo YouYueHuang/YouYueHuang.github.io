@@ -22,6 +22,7 @@ icon: icon-machine-learning
   <p>The goal is to find a set of weight and bias to minimize the loss function, which makes the residual sqaure of sum the minimum</p>
   <p>We have to define a good loss function, which is differentiable, then we can use gradient descent to find global optimum</p> 
   <p>If the fitting line cost too much error, we should adopt high order features or increase the model complexity to reduce the error. If the fitting line is overfitting, then the test error will increase.</p> 
+  <p>Another approach is using regularization. The output will be less sensitive to the noise.</p> 
   <p><b>Application</b> 
     <ul>
       <li>Stock price prediction</li>
