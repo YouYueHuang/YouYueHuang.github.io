@@ -17,6 +17,7 @@ icon: icon-machine-learning
 <div class="w3-twothird w3-container">
   <h1 class="w3-text-teal">Regression</h1>
   <p>Regreesion is a approach to estimate the relationships among variables, and the target variable is a continuous number.</p>
+  <img src="{{ site.img_path }}/blog_machine_learning/RSS.gif" width="100%">
   <p><b>Application</b> 
     <ul>
       <li>Stock price prediction</li>
