@@ -16,13 +16,13 @@ icon: icon-machine-learning
 
 <div class="w3-twothird w3-container">
   <h1 class="w3-text-teal">Auto encoder</h1>
-  <p>Autoencoding(AE) is an automatic data compression and decompression algorithm. Both PCA and autoencoder can do demension reduction. PCA is used for finding low dimension representations, and it only uses linear operations as opposed to autoencoding. Autoencoding can have nonlinear enoder/decoders.
+  <p>Autoencoding(AE) is an automatic data compression and decompression algorithm. Both PCA and autoencoder can do dimension reduction. PCA is maion used for finding low dimension representations, and it only uses linear operations as opposed to autoencoding. Autoencoding can have nonlinear enoder/decoders.
   </p>
-  <p> If no non-linear function is used in the AE and the number of neurons in the hidden layer is of smaller dimension then that of the input then PCA and AE can yield the same result. Otherwise the AE may find a different subspace. The hidden layer in an AE can be of greater dimensionality than that of the input. In such cases AE's may not be doing dimensionality reduction. In that case, hidden layer might memorize the original input. One solution is to apply L2 regularizer to the output of hidden layer. If the hidden unit is far from 0 after activation, that means the unit can recognize the input. The activated units of these input can be regarded as the expert of processing those works.
+  <p> If no non-linear function is used in the AE and the number of neurons in the hidden layer is of smaller dimension then that of the input then PCA and AE can yield the same result. Otherwise the AE may find a different subspace. 
   </p>
   <p>
-  The hidden layer in an AE can be of greater dimensionality than that of the input. In such cases AE's may not be doing dimensionality reduction. Instead, we perceive them as doing a transformation from one feature space to the new feature space which might disentangle factors of variation.
-  A single layer auto encoder with linear transfer function is nearly equivalent to PCA, where nearly means that the W found by AE and PCA won't be the same--but the subspace spanned by the respective W's will. 
+  The hidden layer in an AE can be of greater dimensionality than that of the input. In such cases AE's may not be doing dimensionality reduction. Instead, we perceive them as doing a transformation from one feature space to the new feature space which might disentangle factors of variation. 
   </p>
-  
+  <p>  A single layer auto-encoder with linear transfer function is nearly equivalent to PCA, where "nearly" means that the W found by AE and PCA won't be the same--but the subspace spanned by the respective W's will. Hidden layer might memorize the original input. One solution is to apply L2 regularizer to the output of hidden layer. If the hidden unit is far from 0 after activation, that means the unit can recognize the input. The activated units of these input can be regarded as the units which own te capability of processing those signals.
+  </p>
 </div>
