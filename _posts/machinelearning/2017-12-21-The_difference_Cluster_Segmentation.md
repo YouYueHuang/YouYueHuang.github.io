@@ -27,7 +27,8 @@ icon: icon-machine-learning
   <p><b>Comparason</b>
     <ul>
       <li>Segmentation is always possible, even in an extremely homogeneous collection of items.  You just decide where you will cut between the groups.</li>
-      <li>Finding clusters in a extremely homogeneous collection is impossible, since by definition there are no density differences, and hence no clusters to find.</li>
+      <li>Finding clusters in a extremely homogeneous collection is impossible, since by definition there are no density differences, and hence no clusters to find.  \mathbf{S}=\{\mathbf{x} \in R^{D} \}
+</li>
     </ul>
   </p>
 </div>
